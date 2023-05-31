@@ -2,11 +2,11 @@
 
 The propouse of this project is to practice the knowledge about GraphQL and Spring Boot.
 
-### The propouse
+### The project
 
 The main idea of it is create a simple system to manage a list of posts and also their comments.
 
-### The tech stack used
+### The tech-stack used
 - JDK 17
 - Spring Boot 3.1.0
 - Spring Web
